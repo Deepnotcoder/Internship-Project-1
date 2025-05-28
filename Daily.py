@@ -35,4 +35,3 @@ print(df.shape)
 df.drop_duplicates(inplace=True)
 
 nd = df.to_csv('kemcho.csv')
-
